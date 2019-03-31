@@ -1,0 +1,32 @@
+Mono path[0] = 'D:/tutorial/7-B/okalast/CloniumOkalast/Okalast_Data/Managed'
+Mono path[1] = 'D:/tutorial/7-B/okalast/CloniumOkalast/Okalast_Data/Mono'
+Mono config path = 'D:/tutorial/7-B/okalast/CloniumOkalast/Okalast_Data/Mono/etc'
+PlayerConnection initialized from D:/tutorial/7-B/okalast/CloniumOkalast/Okalast_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55089
+Multi-casting "[IP] 10.4.17.7 [Port] 55089 [Flags] 2 [Guid] 3302772862 [EditorId] 1188894314 [Version] 1048832 [Id] WindowsPlayer(User-6) [Debug] 0" to [225.0.0.222:54997]...
+Started listening to [0.0.0.0:55089]
+PlayerConnection already initialized - listening to [0.0.0.0:55089]
+Player data archive not found at `D:/tutorial/7-B/okalast/CloniumOkalast/Okalast_Data/data.unity3d`, using local filesystemInitialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics (ID=0x402)
+    Vendor:   Intel
+    VRAM:     1112 MB
+    Driver:   20.19.15.4835
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\tutorial\7-B\okalast\CloniumOkalast\Okalast_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\tutorial\7-B\okalast\CloniumOkalast\Okalast_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\tutorial\7-B\okalast\CloniumOkalast\Okalast_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\tutorial\7-B\okalast\CloniumOkalast\Okalast_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\tutorial\7-B\okalast\CloniumOkalast\Okalast_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\tutorial\7-B\okalast\CloniumOkalast\Okalast_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\tutorial\7-B\okalast\CloniumOkalast\Okalast_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\tutorial\7-B\okalast\CloniumOkalast\Okalast_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.032 seconds
+Platform assembly: D:\tutorial\7-B\okalast\CloniumOkalast\Okalast_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\tutorial\7-B\okalast\CloniumOkalast\Okalast_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
